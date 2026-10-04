@@ -35,5 +35,5 @@
 
 ### 📬 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/URL_LINKEDIN_ANDA)
-- 📧 Email: `email_anda@domain.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/axell-satria-1537b63a5/)
+- 📧 Email: `axellsatria1@gmail.com`
